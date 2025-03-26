@@ -1,4 +1,6 @@
-ellipse (200,300,150,150);
-ellipse (200,200, 125, 125);
-ellipse (200, 100, 100,100); 
-
+rect (0, 350, 400,80); //ground 
+ellipse(200, 300, 150, 150); //bottom 
+ellipse(200, 200, 100, 100); //middle
+ellipse(200, 120, 75, 75); //top
+line (335, 111, 249, 190); //right arm 
+line (100,111,152,192); //left arm
