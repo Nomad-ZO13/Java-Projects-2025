@@ -1,0 +1,25 @@
+background(186, 145, 20); // wooden table
+ellipse(200, 200, 350, 350); // plate
+ellipse(200, 200, 300, 300); //smaller plate
+fill(242, 151, 14);
+triangle(200,378,85,138,300,149);//pizza
+stroke (237, 169, 66);
+strokeWeight(35);
+line(91, 151,298, 149);//crust
+stroke (13, 12, 12);
+strokeWeight (1);
+fill(255, 0, 0);
+ellipse (200,256,50,50);//roni
+stroke (15, 14, 14);
+strokeWeight (1);
+fill(255, 0, 0);
+ellipse (150, 180, 50,50);//roni
+stroke (3, 3, 3);
+strokeWeight (1);
+fill(255, 0, 0);
+ellipse (231,203,50,50);//roni
+stroke (3, 3, 3);
+strokeWeight (1);
+fill(255, 0, 0);
+ellipse (203,329,33,33);//roni
+
